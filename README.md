@@ -4,6 +4,8 @@ This project is made to receive IR transmitter information (TV remote) and
 control something over WiFi. This project will be used for
 [UPnP remote controller project](https://github.com/valletw/esp-upnp-remote).
 
+![Board](img/board-unboxed.jpg)
+
 ## Hardware
 
 Four status LED are available:
